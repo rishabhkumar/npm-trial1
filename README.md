@@ -1,17 +1,17 @@
-#Trial Module
+# Trial Module
 
 First attempt at npm modules
  
- ##Overview
+ ## Overview
  It basically adds a number according to user's choice in a synchronized manner.
  
- ##Installation
+ ## Installation
  Enter following commmand: 
  ```shell
  npm install npm-trial1
  ```
  
- ##Usage
+ ## Usage
  ```shell
  const t = require('npm-trial1')
  t.increment(10, 2, 2, (result) => {  // An example of inputs
